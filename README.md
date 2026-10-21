@@ -225,6 +225,4 @@ This project helps practice:
 
 GitHub: https://github.com/tushi66
 
----
-
-*This project is developed for learning and practicing backend development and student record management.*
+------
