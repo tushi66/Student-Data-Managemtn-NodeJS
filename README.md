@@ -124,8 +124,8 @@ Example JSON body:
 
 ```json
 {
-  "name": "Rahul Patel",
-  "email": "rahul@example.com",
+  "name": "Tushar Patel",
+  "email": "tushar@example.com",
   "phone": "9876543210",
   "city": "Surat",
   "category": "Full Stack"
