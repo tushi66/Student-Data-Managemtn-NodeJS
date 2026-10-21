@@ -135,7 +135,7 @@ Example JSON body:
 ### Search Students
 
 ```text
-GET /api/students?search=Rahul
+GET /api/students?search=Tushar
 ```
 
 Search by student name or email.
